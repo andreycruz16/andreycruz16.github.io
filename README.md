@@ -1,4 +1,4 @@
 # andreycruz16.github.io
 
-Minimal GitHub Pages site that keeps the `privacy/` pages and redirects the root URL to
-`https://markandrey.vercel.app`.
+Minimal Vite + React site that shows a 5-second redirect countdown on `/` and keeps the
+privacy pages available under `/privacy/...`.
