@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 
 const REDIRECT_URL = "https://markandrey.vercel.app";
-const REDIRECT_SECONDS = 5;
+const REDIRECT_SECONDS = 10;
 const isRootPath = () => {
   const { pathname } = window.location;
   return pathname === "/" || pathname === "/index.html";
